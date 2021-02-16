@@ -14,7 +14,7 @@ bitcore.versionGuard = function(version) {
   }
 };
 bitcore.versionGuard(global._bitcoreXsg);
-global._bitcoreXsg = bitcore.version;
+//global._bitcoreXsg = bitcore.version;
 
 // crypto
 bitcore.crypto = {};
